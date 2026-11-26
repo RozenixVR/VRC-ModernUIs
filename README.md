@@ -2,7 +2,7 @@
 
 ModernUIs is available via the [Creator Companion](https://vcc.docs.vrchat.com/) as a VPM package!
 
-### [VPM / Creator Companion Listing](https://vpm.rozenix.xyz)
+### [VPM / Creator Companion Listing](https://vpm.rozenix.com)
 
 For Standalone Unity I also provide a Unity Package with every release.
 
@@ -10,7 +10,7 @@ For Standalone Unity I also provide a Unity Package with every release.
 
 If you have questions / need help feel free to join the support Discord!
 
-#### [Rozenix Creations Discord](https://discord.rozenix.xyz)
+#### [Rozenix Creations Discord](https://discord.rozenix.com)
 
 # What is Modern UIs?
 
@@ -24,9 +24,9 @@ It focuses on making UI development easier through modular and flexible componen
 
 * Modular prefabs for fast and flexible UI building
 * Built-in permission systems with support for third-party integrations, including:
-  * [VRCLinking](https://github.com/DrBlackRat/VRC-ModernUIs-Integration-VRCLinking)
-  * [DisBridge](https://github.com/DrBlackRat/VRC-ModernUIs-Integration-DisBridge)
-  * [AccessTXL](https://github.com/DrBlackRat/VRC-ModernUIs-Integration-VRCLinking)
+  * [VRCLinking](https://github.com/RozenixVR/VRC-ModernUIs-Integration-VRCLinking)
+  * [DisBridge](https://github.com/RozenixVR/VRC-ModernUIs-Integration-DisBridge)
+  * [AccessTXL](https://github.com/RozenixVR/VRC-ModernUIs-Integration-VRCLinking)
 * Support for VRChat's Creator Economy
 * Smooth, animation-driven transitions and feedback
 * Customizable UI color themes
@@ -44,7 +44,7 @@ It's a good way to get an idea of how the different components look and behave i
 
 You can also go and check out some of the world actively using ModernUIs:
 
-- [Modern UIs Showcase](https://vrchat.com/home/world/wrld_9da99c69-cbc1-49bf-8a9c-05f0fc7a329a/info) by DrBlackRat
+- [Modern UIs Showcase](https://vrchat.com/home/world/wrld_9da99c69-cbc1-49bf-8a9c-05f0fc7a329a/info) by Rozenix
 - [Furry Hideout](https://vrchat.com/home/world/wrld_4b341546-65ff-4607-9d38-5b7f8f405132) by Lt_Shadow
 - [Slow Down](https://vrchat.com/home/world/wrld_1d1b48cb-780d-46e2-97ed-85aefc866614) by ~Ashy
 - [Cuddle & Sleep](https://vrchat.com/home/world/wrld_7a0c95e2-476c-4655-9b4e-7380933c4fd3) by 「Jаy」
@@ -89,7 +89,7 @@ Keep your own files somewhere else in your Unity project to avoid losing them wh
 
 #### This Asset was made by Rozenix:
 
-https://rozenix.xyz
+https://rozenix.com
 
 #### If you like this, feel free to support me on Ko-fi!
 
