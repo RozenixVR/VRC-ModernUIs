@@ -1595,12 +1595,27 @@ PrefabInstance:
       propertyPath: m_AnchorMin.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4183176983932866014, guid: d6af6b9c519d2b745a61839233004cfe,
+        type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294111986
+      objectReference: {fileID: 0}
     - target: {fileID: 4194256349728841891, guid: d6af6b9c519d2b745a61839233004cfe,
         type: 3}
       propertyPath: serializationData.Prefab
       value: 
       objectReference: {fileID: 4194256349728841891, guid: d6af6b9c519d2b745a61839233004cfe,
         type: 3}
+    - target: {fileID: 4298069446018878362, guid: d6af6b9c519d2b745a61839233004cfe,
+        type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294111986
+      objectReference: {fileID: 0}
+    - target: {fileID: 4504281944182662802, guid: d6af6b9c519d2b745a61839233004cfe,
+        type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294111986
+      objectReference: {fileID: 0}
     - target: {fileID: 5127328331288891056, guid: d6af6b9c519d2b745a61839233004cfe,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -1645,6 +1660,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SizeDelta.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5644786740308808962, guid: d6af6b9c519d2b745a61839233004cfe,
+        type: 3}
+      propertyPath: m_Size
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5644786740308808962, guid: d6af6b9c519d2b745a61839233004cfe,
         type: 3}
@@ -1721,12 +1741,22 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7550887355252818335, guid: d6af6b9c519d2b745a61839233004cfe,
+        type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294111986
+      objectReference: {fileID: 0}
     - target: {fileID: 7562520876021607650, guid: d6af6b9c519d2b745a61839233004cfe,
         type: 3}
       propertyPath: serializationData.Prefab
       value: 
       objectReference: {fileID: 7562520876021607650, guid: d6af6b9c519d2b745a61839233004cfe,
         type: 3}
+    - target: {fileID: 7801899038983023315, guid: d6af6b9c519d2b745a61839233004cfe,
+        type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294111986
+      objectReference: {fileID: 0}
     - target: {fileID: 8180443326856560028, guid: d6af6b9c519d2b745a61839233004cfe,
         type: 3}
       propertyPath: m_SizeDelta.y
@@ -22606,7 +22636,7 @@ PrefabInstance:
     - target: {fileID: 4577768050241725409, guid: b30a97be65390ed4cbe1ac54ed3d584b,
         type: 3}
       propertyPath: m_text
-      value: https://discord.drblackrat.xyz
+      value: https://discord.rozenix.com
       objectReference: {fileID: 0}
     - target: {fileID: 4577768050241725409, guid: b30a97be65390ed4cbe1ac54ed3d584b,
         type: 3}
@@ -22626,7 +22656,7 @@ PrefabInstance:
     - target: {fileID: 4883127170690358911, guid: b30a97be65390ed4cbe1ac54ed3d584b,
         type: 3}
       propertyPath: m_Text
-      value: https://discord.drblackrat.xyz
+      value: https://discord.rozenix.com
       objectReference: {fileID: 0}
     - target: {fileID: 6194193245710076564, guid: b30a97be65390ed4cbe1ac54ed3d584b,
         type: 3}
@@ -32805,6 +32835,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1613300562}
     m_Modifications:
+    - target: {fileID: 217179534894586951, guid: 9099b526ab68d4a42b610c3d301e2a3a,
+        type: 3}
+      propertyPath: m_PresetInfoIsWorld
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1873495168802612577, guid: 9099b526ab68d4a42b610c3d301e2a3a,
         type: 3}
       propertyPath: m_text
@@ -36398,7 +36433,7 @@ PrefabInstance:
     - target: {fileID: 4577768050241725409, guid: b30a97be65390ed4cbe1ac54ed3d584b,
         type: 3}
       propertyPath: m_text
-      value: https://github.com/DrBlackRat/VRC-ModernUIs
+      value: https://github.com/RozenixVR/VRC-ModernUIs
       objectReference: {fileID: 0}
     - target: {fileID: 4577768050241725409, guid: b30a97be65390ed4cbe1ac54ed3d584b,
         type: 3}
@@ -36418,7 +36453,7 @@ PrefabInstance:
     - target: {fileID: 4883127170690358911, guid: b30a97be65390ed4cbe1ac54ed3d584b,
         type: 3}
       propertyPath: m_Text
-      value: https://github.com/DrBlackRat/VRC-ModernUIs
+      value: https://github.com/RozenixVR/VRC-ModernUIs
       objectReference: {fileID: 0}
     - target: {fileID: 6194193245710076564, guid: b30a97be65390ed4cbe1ac54ed3d584b,
         type: 3}
@@ -45906,6 +45941,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Whitelist Combiner Permission Manager
+      objectReference: {fileID: 0}
+    - target: {fileID: 2277251380848630605, guid: f5d581cb1aaa9ea428e61e581f35b5a5,
+        type: 3}
+      propertyPath: m_PresetInfoIsWorld
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2860323400746857332, guid: f5d581cb1aaa9ea428e61e581f35b5a5,
         type: 3}
@@ -59752,12 +59792,27 @@ PrefabInstance:
       propertyPath: m_AnchorMin.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4183176983932866014, guid: d6af6b9c519d2b745a61839233004cfe,
+        type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294111986
+      objectReference: {fileID: 0}
     - target: {fileID: 4194256349728841891, guid: d6af6b9c519d2b745a61839233004cfe,
         type: 3}
       propertyPath: serializationData.Prefab
       value: 
       objectReference: {fileID: 4194256349728841891, guid: d6af6b9c519d2b745a61839233004cfe,
         type: 3}
+    - target: {fileID: 4298069446018878362, guid: d6af6b9c519d2b745a61839233004cfe,
+        type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294111986
+      objectReference: {fileID: 0}
+    - target: {fileID: 4504281944182662802, guid: d6af6b9c519d2b745a61839233004cfe,
+        type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294111986
+      objectReference: {fileID: 0}
     - target: {fileID: 5127328331288891056, guid: d6af6b9c519d2b745a61839233004cfe,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -59883,12 +59938,22 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7550887355252818335, guid: d6af6b9c519d2b745a61839233004cfe,
+        type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294111986
+      objectReference: {fileID: 0}
     - target: {fileID: 7562520876021607650, guid: d6af6b9c519d2b745a61839233004cfe,
         type: 3}
       propertyPath: serializationData.Prefab
       value: 
       objectReference: {fileID: 7562520876021607650, guid: d6af6b9c519d2b745a61839233004cfe,
         type: 3}
+    - target: {fileID: 7801899038983023315, guid: d6af6b9c519d2b745a61839233004cfe,
+        type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294111986
+      objectReference: {fileID: 0}
     - target: {fileID: 8180443326856560028, guid: d6af6b9c519d2b745a61839233004cfe,
         type: 3}
       propertyPath: m_SizeDelta.y
@@ -81831,6 +81896,11 @@ PrefabInstance:
       propertyPath: m_AnchorMin.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4183176983932866014, guid: d6af6b9c519d2b745a61839233004cfe,
+        type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294111986
+      objectReference: {fileID: 0}
     - target: {fileID: 4194256349728841891, guid: d6af6b9c519d2b745a61839233004cfe,
         type: 3}
       propertyPath: serializationData.Prefab
@@ -81841,6 +81911,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_text
       value: Whitelist Notifications
+      objectReference: {fileID: 0}
+    - target: {fileID: 4298069446018878362, guid: d6af6b9c519d2b745a61839233004cfe,
+        type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294111986
+      objectReference: {fileID: 0}
+    - target: {fileID: 4504281944182662802, guid: d6af6b9c519d2b745a61839233004cfe,
+        type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294111986
       objectReference: {fileID: 0}
     - target: {fileID: 5127328331288891056, guid: d6af6b9c519d2b745a61839233004cfe,
         type: 3}
@@ -81886,6 +81966,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SizeDelta.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5644786740308808962, guid: d6af6b9c519d2b745a61839233004cfe,
+        type: 3}
+      propertyPath: m_Size
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5644786740308808962, guid: d6af6b9c519d2b745a61839233004cfe,
         type: 3}
@@ -81962,12 +82047,22 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7550887355252818335, guid: d6af6b9c519d2b745a61839233004cfe,
+        type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294111986
+      objectReference: {fileID: 0}
     - target: {fileID: 7562520876021607650, guid: d6af6b9c519d2b745a61839233004cfe,
         type: 3}
       propertyPath: serializationData.Prefab
       value: 
       objectReference: {fileID: 7562520876021607650, guid: d6af6b9c519d2b745a61839233004cfe,
         type: 3}
+    - target: {fileID: 7801899038983023315, guid: d6af6b9c519d2b745a61839233004cfe,
+        type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294111986
+      objectReference: {fileID: 0}
     - target: {fileID: 8180443326856560028, guid: d6af6b9c519d2b745a61839233004cfe,
         type: 3}
       propertyPath: m_SizeDelta.y
@@ -87269,34 +87364,34 @@ MonoBehaviour:
   useAssignedLayers: 0
   DynamicPrefabs: []
   DynamicMaterials:
-  - {fileID: 2100000, guid: 1db6643092e001940902578f00e86981, type: 2}
-  - {fileID: 2100000, guid: 06c8a5edae372ed489111a2d2bd8972f, type: 2}
   - {fileID: 2100000, guid: 48f32ce8d7140f045a2c568df3a8d9bd, type: 2}
-  - {fileID: 2100000, guid: 43d0ae848fdfe6d4495a87f8e80e386b, type: 2}
+  - {fileID: 2100000, guid: 885a01c79ffd5024489a1fb31f3fffb5, type: 2}
   - {fileID: 2100000, guid: c2af845bdfb561149b08ba13167ff040, type: 2}
-  - {fileID: 2100000, guid: b3889ddf2a4bd9346a4843eb47e0acb1, type: 2}
-  - {fileID: 2100000, guid: 3f13a5d1eb038764b804d1aabffed55f, type: 2}
+  - {fileID: 2100000, guid: e01134920adbcf549ac7f52ceeb583a2, type: 2}
+  - {fileID: 2100000, guid: 1db6643092e001940902578f00e86981, type: 2}
+  - {fileID: 2100000, guid: 51d72acecdb1ba249957953415f8e29b, type: 2}
+  - {fileID: 2100000, guid: 88aa935393607b6409baa45499f5156b, type: 2}
+  - {fileID: 2100000, guid: 03548d63cd30357468d952179c932a3c, type: 2}
+  - {fileID: 2100000, guid: 06c8a5edae372ed489111a2d2bd8972f, type: 2}
+  - {fileID: 2100000, guid: 419ae9fed5372564c995339c60fd7ebf, type: 2}
+  - {fileID: 2100000, guid: 56778de2f4060f14fb06bc8cba7e30b7, type: 2}
+  - {fileID: 2100000, guid: 8daeef7906b79b84596db75fe1d0896d, type: 2}
+  - {fileID: 2100000, guid: dd75a5d3bd47a0c489c0fd71aff39ede, type: 2}
   - {fileID: 2100000, guid: a393dafb2990e2c4fa0628ace4444efa, type: 2}
   - {fileID: 2100000, guid: ab2e3e0b19d82f141a4cbe7a407fd687, type: 2}
-  - {fileID: 2100000, guid: 5b91c5c74862dba4d9fc2e8ae3e07b70, type: 2}
-  - {fileID: 2100000, guid: 87529c80faca0ef4a881efba652815f3, type: 2}
-  - {fileID: 2100000, guid: 7ae149455dfb7d34baf980c99576ec0f, type: 2}
   - {fileID: 2100000, guid: b24ed807dd7dc224baf5390f46738647, type: 2}
+  - {fileID: 2100000, guid: b3889ddf2a4bd9346a4843eb47e0acb1, type: 2}
   - {fileID: 2100000, guid: 49c7ed6d767622b4fadcf200017fd44f, type: 2}
-  - {fileID: 2100000, guid: a2a02a9e7f57f3144a9d594c653ec8ab, type: 2}
-  - {fileID: 2100000, guid: e01134920adbcf549ac7f52ceeb583a2, type: 2}
-  - {fileID: 2100000, guid: 885a01c79ffd5024489a1fb31f3fffb5, type: 2}
-  - {fileID: 2100000, guid: 51d72acecdb1ba249957953415f8e29b, type: 2}
-  - {fileID: 2100000, guid: dd75a5d3bd47a0c489c0fd71aff39ede, type: 2}
-  - {fileID: 2100000, guid: 88aa935393607b6409baa45499f5156b, type: 2}
   - {fileID: 2100000, guid: 9db9f48f3ee803d448488d4368a140f9, type: 2}
+  - {fileID: 2100000, guid: 87529c80faca0ef4a881efba652815f3, type: 2}
+  - {fileID: 2100000, guid: 43d0ae848fdfe6d4495a87f8e80e386b, type: 2}
   - {fileID: 2100000, guid: 254a177cd9c57e84683d0fd3bd1be46d, type: 2}
-  - {fileID: 2100000, guid: 56778de2f4060f14fb06bc8cba7e30b7, type: 2}
-  - {fileID: 2100000, guid: 419ae9fed5372564c995339c60fd7ebf, type: 2}
+  - {fileID: 2100000, guid: 5b91c5c74862dba4d9fc2e8ae3e07b70, type: 2}
+  - {fileID: 2100000, guid: 3f13a5d1eb038764b804d1aabffed55f, type: 2}
   - {fileID: 2100000, guid: e86e7281176dae945bd655f34805ed55, type: 2}
-  - {fileID: 2100000, guid: 8daeef7906b79b84596db75fe1d0896d, type: 2}
   - {fileID: 2100000, guid: 9afc4b106e391b84e881d5363ac12413, type: 2}
-  - {fileID: 2100000, guid: 03548d63cd30357468d952179c932a3c, type: 2}
+  - {fileID: 2100000, guid: 7ae149455dfb7d34baf980c99576ec0f, type: 2}
+  - {fileID: 2100000, guid: a2a02a9e7f57f3144a9d594c653ec8ab, type: 2}
   LightMapsNear: []
   LightMapsFar: []
   LightMode: 0
@@ -115113,7 +115208,7 @@ PrefabInstance:
         animation-driven transitions and feedback\n\u2022 Designed for clarity, usability,
         and a modern aesthetic\n\u2022 Easy to integrate and customize for different
         world setups\n\n<b>Interested?</b>\nModernUIs is now free to use under MIT
-        License!\nVisit <b>https://github.com/DrBlackRat/VRC-ModernUIs</b> for more
+        License!\nVisit <b>https://github.com/RozenixVR/VRC-ModernUIs</b> for more
         info."
       objectReference: {fileID: 0}
     - target: {fileID: 2829525238032430984, guid: 0f220d0df39d87a4e9f6bcaaf6225940,

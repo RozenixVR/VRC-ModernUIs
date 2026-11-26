@@ -1,16 +1,16 @@
 {
   "name": "xyz.drblackrat.vrc.modernuis",
   "displayName": "ModernUIs",
-  "version": "0.13.0",
+  "version": "0.13.1",
   "description": "A collection of modular VRChat UI prefabs, scripts, and permission systems designed to help build clean, modern, and customizable world interfaces.",
   "gitDependencies": {},
   "vpmDependencies": {
     "com.vrchat.worlds": ">=3.10.4 <4.0.0"
   },
   "author": {
-    "name": "DrBlackRat",
-    "email": "contact@drblackrat.xyz",
-    "url": "https://drblackrat.xyz"
+    "name": "Rozenix",
+    "email": "contact@rozenix.com",
+    "url": "https://rozenix.com"
   },
   "legacyFolders": {
     "Assets\\DrBlackRat\\ModernUIs": ""
