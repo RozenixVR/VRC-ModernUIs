@@ -115,6 +115,7 @@ MonoBehaviour:
   interactText: Use
   interactTextGO: {fileID: 0}
   proximity: 2
+  OutlineRenderers: []
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
@@ -272,6 +273,7 @@ MonoBehaviour:
   interactText: Use
   interactTextGO: {fileID: 0}
   proximity: 2
+  OutlineRenderers: []
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
@@ -381,7 +383,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: ' UI by DrBlackRat'
+  m_text: ' UI by Rozenix'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -652,6 +654,7 @@ MonoBehaviour:
   interactText: Use
   interactTextGO: {fileID: 0}
   proximity: 2
+  OutlineRenderers: []
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
@@ -1202,8 +1205,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4294111986
+  m_fontColor: {r: 0.95, g: 0.95, b: 0.95, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1316,22 +1319,22 @@ PrefabInstance:
     - target: {fileID: 1013177035940775265, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_fontColor.b
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 1013177035940775265, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_fontColor.g
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 1013177035940775265, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_fontColor.r
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 1013177035940775265, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_fontColor32.rgba
-      value: 4294967295
+      value: 4294111986
       objectReference: {fileID: 0}
     - target: {fileID: 1279729744279082474, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
@@ -1590,17 +1593,17 @@ PrefabInstance:
     - target: {fileID: 4833331760861400785, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_Color.b
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 4833331760861400785, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_Color.g
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 4833331760861400785, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_Color.r
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 4843278927609479392, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
@@ -1943,6 +1946,7 @@ MonoBehaviour:
   interactText: Use
   interactTextGO: {fileID: 0}
   proximity: 2
+  OutlineRenderers: []
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
@@ -1969,42 +1973,42 @@ PrefabInstance:
     - target: {fileID: 1006996221662484834, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_fontColor.b
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 1006996221662484834, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_fontColor.g
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 1006996221662484834, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_fontColor.r
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 1006996221662484834, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_fontColor32.rgba
-      value: 4294967295
+      value: 4294111986
       objectReference: {fileID: 0}
     - target: {fileID: 1013177035940775265, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_fontColor.b
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 1013177035940775265, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_fontColor.g
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 1013177035940775265, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_fontColor.r
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 1013177035940775265, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_fontColor32.rgba
-      value: 4294967295
+      value: 4294111986
       objectReference: {fileID: 0}
     - target: {fileID: 1228128583923032879, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
@@ -2230,22 +2234,22 @@ PrefabInstance:
     - target: {fileID: 3383311756297296177, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_fontColor.b
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 3383311756297296177, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_fontColor.g
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 3383311756297296177, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_fontColor.r
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 3383311756297296177, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_fontColor32.rgba
-      value: 4294967295
+      value: 4294111986
       objectReference: {fileID: 0}
     - target: {fileID: 3603251161737913212, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
@@ -2422,17 +2426,17 @@ PrefabInstance:
     - target: {fileID: 4833331760861400785, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_Color.b
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 4833331760861400785, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_Color.g
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 4833331760861400785, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_Color.r
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 4843278927609479392, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
@@ -2845,22 +2849,22 @@ PrefabInstance:
     - target: {fileID: 8336114662054240296, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_fontColor.b
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 8336114662054240296, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_fontColor.g
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 8336114662054240296, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_fontColor.r
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 8336114662054240296, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_fontColor32.rgba
-      value: 4294967295
+      value: 4294111986
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2994,6 +2998,7 @@ MonoBehaviour:
   interactText: Use
   interactTextGO: {fileID: 0}
   proximity: 2
+  OutlineRenderers: []
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
@@ -3101,6 +3106,7 @@ MonoBehaviour:
   interactText: Use
   interactTextGO: {fileID: 0}
   proximity: 2
+  OutlineRenderers: []
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
@@ -3166,6 +3172,7 @@ MonoBehaviour:
   interactText: Use
   interactTextGO: {fileID: 0}
   proximity: 2
+  OutlineRenderers: []
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
@@ -3243,6 +3250,7 @@ MonoBehaviour:
   interactText: Use
   interactTextGO: {fileID: 0}
   proximity: 2
+  OutlineRenderers: []
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
@@ -3320,6 +3328,7 @@ MonoBehaviour:
   interactText: Use
   interactTextGO: {fileID: 0}
   proximity: 2
+  OutlineRenderers: []
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
@@ -3397,6 +3406,7 @@ MonoBehaviour:
   interactText: Use
   interactTextGO: {fileID: 0}
   proximity: 2
+  OutlineRenderers: []
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
@@ -3486,6 +3496,7 @@ MonoBehaviour:
   interactText: Use
   interactTextGO: {fileID: 0}
   proximity: 2
+  OutlineRenderers: []
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
@@ -3563,6 +3574,7 @@ MonoBehaviour:
   interactText: Use
   interactTextGO: {fileID: 0}
   proximity: 2
+  OutlineRenderers: []
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
@@ -3628,6 +3640,7 @@ MonoBehaviour:
   interactText: Use
   interactTextGO: {fileID: 0}
   proximity: 2
+  OutlineRenderers: []
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
@@ -3654,22 +3667,22 @@ PrefabInstance:
     - target: {fileID: 1013177035940775265, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_fontColor.b
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 1013177035940775265, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_fontColor.g
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 1013177035940775265, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_fontColor.r
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 1013177035940775265, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_fontColor32.rgba
-      value: 4294967295
+      value: 4294111986
       objectReference: {fileID: 0}
     - target: {fileID: 1279729744279082474, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
@@ -3958,17 +3971,17 @@ PrefabInstance:
     - target: {fileID: 4833331760861400785, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_Color.b
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 4833331760861400785, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_Color.g
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 4833331760861400785, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
       propertyPath: m_Color.r
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 4843278927609479392, guid: 0e595872dee6e7c479aa8825491dc4c5,
         type: 3}
@@ -4321,6 +4334,7 @@ MonoBehaviour:
   interactText: Use
   interactTextGO: {fileID: 0}
   proximity: 2
+  OutlineRenderers: []
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
@@ -4363,6 +4377,26 @@ PrefabInstance:
         type: 3}
       propertyPath: _syncMethod
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2276157067355071368, guid: 80cbcd79dfe5bdd46bdf52990cb21d93,
+        type: 3}
+      propertyPath: m_fontColor.b
+      value: 0.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 2276157067355071368, guid: 80cbcd79dfe5bdd46bdf52990cb21d93,
+        type: 3}
+      propertyPath: m_fontColor.g
+      value: 0.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 2276157067355071368, guid: 80cbcd79dfe5bdd46bdf52990cb21d93,
+        type: 3}
+      propertyPath: m_fontColor.r
+      value: 0.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 2276157067355071368, guid: 80cbcd79dfe5bdd46bdf52990cb21d93,
+        type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294111986
       objectReference: {fileID: 0}
     - target: {fileID: 2564835407353546955, guid: 80cbcd79dfe5bdd46bdf52990cb21d93,
         type: 3}
@@ -4773,22 +4807,22 @@ PrefabInstance:
     - target: {fileID: 6196653227377479836, guid: a66f63ab07858ed41ad7d11686cb3f18,
         type: 3}
       propertyPath: m_fontColor.b
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 6196653227377479836, guid: a66f63ab07858ed41ad7d11686cb3f18,
         type: 3}
       propertyPath: m_fontColor.g
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 6196653227377479836, guid: a66f63ab07858ed41ad7d11686cb3f18,
         type: 3}
       propertyPath: m_fontColor.r
-      value: 1
+      value: 0.95
       objectReference: {fileID: 0}
     - target: {fileID: 6196653227377479836, guid: a66f63ab07858ed41ad7d11686cb3f18,
         type: 3}
       propertyPath: m_fontColor32.rgba
-      value: 4294967295
+      value: 4294111986
       objectReference: {fileID: 0}
     - target: {fileID: 6222217266120165245, guid: a66f63ab07858ed41ad7d11686cb3f18,
         type: 3}
@@ -4812,6 +4846,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: fed598a98543c5c4c9150ceb5ff74c9c,
         type: 2}
+    - target: {fileID: 8640762353686448073, guid: a66f63ab07858ed41ad7d11686cb3f18,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 10.7
+      objectReference: {fileID: 0}
     - target: {fileID: 8640762353686448073, guid: a66f63ab07858ed41ad7d11686cb3f18,
         type: 3}
       propertyPath: m_fontColor.b
@@ -4908,6 +4947,7 @@ MonoBehaviour:
   interactText: Use
   interactTextGO: {fileID: 0}
   proximity: 2
+  OutlineRenderers: []
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
@@ -4973,6 +5013,7 @@ MonoBehaviour:
   interactText: Use
   interactTextGO: {fileID: 0}
   proximity: 2
+  OutlineRenderers: []
   SynchronizePosition: 0
   AllowCollisionOwnershipTransfer: 0
   Reliable: 0
